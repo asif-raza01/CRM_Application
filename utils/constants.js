@@ -1,0 +1,12 @@
+module.exports={
+    userType:{
+        customer:"Customer",
+        engineer:"Engineer",
+        admin:"Admin"
+    },
+    userStatus:{
+        approved:"Approved",
+        pending:"Pending",
+        blocked:"Blocked"
+    }
+}
